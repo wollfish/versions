@@ -1,0 +1,14 @@
+arke:
+  image: arke
+barong:
+  image: barong
+finex:
+  image: finex
+peatio:
+  image: peatio
+rango:
+  image: rango
+sonic:
+  image: baseapp
+tower:
+  image: tower
