@@ -1,14 +1,12 @@
-arke:
-  image: arke
 barong:
-  image: barong
+  image: wollfish/barong:mainline-fc30d49a
 finex:
-  image: finex
+  image: quay.io/openware/openfinex:3.0.0-c95b9aa
 peatio:
-  image: peatio
+  image: wollfish/peatio:mainline-4bbc2f2d
 rango:
-  image: rango
+  image: quay.io/openware/rango:3.0.7
 sonic:
-  image: baseapp
+  image: wollfish/baseapp:mainline-449b47e6
 tower:
-  image: tower
+  image: wollfish/tower:mainline-943e7e94
